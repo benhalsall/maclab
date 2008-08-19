@@ -1,13 +1,11 @@
 # maclab
 
-
 A suite of scripts for Mac Lab system administration.  
 Developed for [Leeds Metropolitan University](http://www.leedsmet.ac.uk)
 
-##ÊContributors
+## Contributors
 
-
-<w.gamble@leedsmet.ac.uk>
-<p.d.hamilton@leedsmet.ac.uk>
-<b.halsall@leedsmet.ac.uk>
+[Will Gamble](w.gamble@leedsmet.ac.uk)
+[Pete Hamilton](p.d.hamilton@leedsmet.ac.uk)
+[Ben Halsall](b.halsall@leedsmet.ac.uk)
 
