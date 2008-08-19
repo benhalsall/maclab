@@ -5,7 +5,7 @@ Developed for [Leeds Metropolitan University](http://www.leedsmet.ac.uk)
 
 ## Contributors
 
-[Will Gamble](w.gamble@leedsmet.ac.uk)
-[Pete Hamilton](p.d.hamilton@leedsmet.ac.uk)
-[Ben Halsall](b.halsall@leedsmet.ac.uk)
+[Will Gamble](w.gamble@leedsmet.ac.uk)  
+[Pete Hamilton](p.d.hamilton@leedsmet.ac.uk)  
+[Ben Halsall](b.halsall@leedsmet.ac.uk)  
 
